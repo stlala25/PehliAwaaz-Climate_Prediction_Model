@@ -1,0 +1,13 @@
+VariableName,VariableCode,Type_Of_Variable,Unit_Of_Measure,Scaling_Factor,Aggregation_Type,Weighing_Varible_ID,Weighing_Variable_Name,Long_Description
+Country,Country,Key Identifier,,0,,,,Country
+State lgd code,StateCode,Key Identifier,,0,,,,State LGD Code
+State,StateName,Key Identifier,,0,,,,State
+YearCode,YearCode,Key Identifier,"",0,,"","",YearCode
+Year,Year,Key Identifier,"",0,,"","",Year
+Project proposals considered for development under pradhan mantri awas yojana,I7226_3,Numeric Variable,Number,1,sum,WeighingRatio_TotalPopulation,Total Population from Census,Project proposals considered for development
+Projects sanctioned under pradhan mantri awas yojana mission,I7226_4,Numeric Variable,Number,1,sum,WeighingRatio_NumberOfHouseholds,Number of House holds from Census,Projects sanctioned under Pradhan Mantri Awas Yojana mission
+Houses for which foundation started under pradhan mantri awas yojana,I7226_5,Numeric Variable,Number,1,sum,WeighingRatio_NumberOfHouseholds,Number of House holds from Census,Houses grounded or the houses for which Foundation started
+Houses for which construction is complete under pradhan mantri awas yojana,I7226_6,Numeric Variable,Number,1,sum,WeighingRatio_NumberOfHouseholds,Number of House holds from Census,Houses for which construction is complete
+Amount invested for building houses under pradhan mantri awas yojana,I7226_7,Numeric Variable,INR ( Indian Rupees ),10000000,sum,WeighingRatio_NumberOfHouseholds,Number of House holds from Census,Amount invested for building houses under Pradhan Mantri Awas Yojana in crore
+Amount sanctioned by the central government under pradhan mantri awas yojana,I7226_8,Numeric Variable,INR ( Indian Rupees ),10000000,sum,WeighingRatio_NumberOfHouseholds,Number of House holds from Census,Amount sanctioned by the Central Government in crore
+Amount released by the central government under pradhan mantri awas yojana,I7226_9,Numeric Variable,INR ( Indian Rupees ),10000000,sum,WeighingRatio_NumberOfHouseholds,Number of House holds from Census,Amount released by the Central Government in crore

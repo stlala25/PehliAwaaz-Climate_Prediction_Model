@@ -1,0 +1,25 @@
+VariableName,VariableCode,Type_Of_Variable,Unit_Of_Measure,Scaling_Factor,Aggregation_Type,Weighing_Varible_ID,Weighing_Variable_Name,Long_Description
+Country,Country,Key Identifier,,0,,,,Country
+State lgd code,StateCode,Key Identifier,,0,,,,State LGD Code
+State,StateName,Key Identifier,,0,,,,State
+Station code,D7078_1,Key Identifier,"",0,"","","",Station code
+Name of the station,D7078_2,Key Identifier,"",0,"","","",Name of the station
+Yearcode,YearCode,Key Identifier,"",0,"","","",YearCode
+Year,Year,Key Identifier,"",0,"","","",Year
+Minimum temperature for river water,I7078_5,Numeric Variable,°C ( Centigrade ),1,min,Not Applicable,Not Applicable,Minimum temperature for river water in celsius
+Maximum temperature for river water,I7078_6,Numeric Variable,°C ( Centigrade ),1,max,Not Applicable,Not Applicable,Maximum temperature for river water in celsius
+Minimum value of dissolved oxygen,I7078_7,Numeric Variable,mg/L (Milligrams per liter),1,min,Not Applicable,Not Applicable,Minimum value of dissolved oxygen for river water is a measure of the amount of gaseous oxygen contained in the water
+Maximum value of dissolved oxygen,I7078_8,Numeric Variable,mg/L (Milligrams per liter),1,max,Not Applicable,Not Applicable,Maximum value of dissolved oxygen for river water is a measure of the amount of gaseous oxygen contained in the water
+Minimum potential of hydrogen value in river water,I7078_9,Numeric Variable,pH,1,min,Not Applicable,Not Applicable,Minimum potential of hydrogen(pH) value in water is a scale used to specify the acidity or basicity of an aqueous solution in river water
+Maximum potential of hydrogen value in river water,I7078_10,Numeric Variable,pH,1,max,Not Applicable,Not Applicable,Maximum potential of hydrogen(pH) value in water is a scale used to specify the acidity or basicity of an aqueous solution in river water
+Minimum conductivity level,I7078_11,Numeric Variable,Âµmhos/cm (Micromhos per centimeter),1,min,Not Applicable,Not Applicable,Minimum conductivity level which is calculated for river water is the ratio of the current density in the material to the electric field which causes the flow of current
+Maximum conductivity level,I7078_12,Numeric Variable,Âµmhos/cm (Micromhos per centimeter),1,max,Not Applicable,Not Applicable,Maximum conductivity level is calculated for river water is the ratio of the current density in the material to the electric field which causes the flow of current
+Minimum biochemical oxygen demand,I7078_13,Numeric Variable,mg/L (Milligrams per liter),1,min,Not Applicable,Not Applicable,Minimum Biochemical oxygen demand (BOD) value which is required by aerobic biological organisms to break down organic material present in a river water(mg/L)
+Maximum biochemical oxygen demand,I7078_14,Numeric Variable,mg/L (Milligrams per liter),1,max,Not Applicable,Not Applicable,Maximum Biochemical oxygen demand (BOD) value which is required by aerobic biological organisms to break down organic material present in a river water(mg/L)
+Minimum of nitrate n + nitrite n required for river water,I7078_15,Numeric Variable,mg/L (Milligrams per liter),1,min,Not Applicable,Not Applicable,Minimum of Nitrate N + Nitrite N required for river water
+Maximum of nitrate n + nitrite n required for river water,I7078_16,Numeric Variable,mg/L (Milligrams per liter),1,max,Not Applicable,Not Applicable,Maximum of Nitrate N + Nitrite N required for river water
+Minimum of faecal coliforms required for river water,I7078_17,Numeric Variable,MPN/100ML(Most probable Number per 100 mililiters),1,min,Not Applicable,Not Applicable,Minimum of Faecal Coliforms (coliform bacteria is associated with faecal matter) required for river water
+Maximum  of faecal coliforms required for river water,I7078_18,Numeric Variable,MPN/100ML(Most probable Number per 100 mililiters),1,max,Not Applicable,Not Applicable,Maximum Faecal Coliforms (coliform bacteria is associated with faecal matter) required for river water
+Minimum coliform required for river water,I7078_19,Numeric Variable,MPN/100ML(Most probable Number per 100 mililiters),1,min,Not Applicable,Not Applicable,Minimum coliform required for river water
+Maximum coliform required for river water,I7078_20,Numeric Variable,MPN/100ML(Most probable Number per 100 mililiters),1,max,Not Applicable,Not Applicable,Maximum coliform required for river water
+,RequestID,,,0,,,,

@@ -1,0 +1,14 @@
+VariableName,VariableCode,Type_Of_Variable,Unit_Of_Measure,Scaling_Factor,Aggregation_Type,Weighing_Varible_ID,Weighing_Variable_Name,Long_Description
+Country,Country,Key Identifier,,0,,,,Country
+State lgd code,StateCode,Key Identifier,,0,,,,State LGD Code
+State,StateName,Key Identifier,,0,,,,State
+Yearcode,YearCode,Key Identifier,"",0,"","","",YearCode
+Year,Year,Key Identifier,"",0,"","","",Year
+Quantity of coal produced by non captive public mines,I7155_3,Numeric Variable,t ( Tonnes ),1000000,sum,WeighingRatio_LandArea,Land Area from Census,Amount of Coal produced by non captive public Mine in Million Tonnes
+Value of coal produced by non captive public mines,I7155_4,Numeric Variable,INR ( Indian Rupees ),1000000,sum,WeighingRatio_LandArea,Land Area from Census,Value of Coal produced by non captive public Mines in Million Rupees
+Quantity of coal produced by non captive private mines,I7155_5,Numeric Variable,t ( Tonnes ),1000000,sum,WeighingRatio_LandArea,Land Area from Census,Amount of Coal produced by non captive Private Mines in Million Tonnes
+Value of coal produced by non captive private mines,I7155_6,Numeric Variable,INR ( Indian Rupees ),1000000,sum,WeighingRatio_LandArea,Land Area from Census,Value of Coal produced by non captive Private Mines in Million Rupees
+Quantity of coal produced by captive public mines,I7155_7,Numeric Variable,t ( Tonnes ),1000000,sum,WeighingRatio_LandArea,Land Area from Census,Amount of Coal produced by captive Public Mines in Million Tonnes
+Value of coal produced by captive public mines,I7155_8,Numeric Variable,INR ( Indian Rupees ),1000000,sum,WeighingRatio_LandArea,Land Area from Census,Value of Coal produced by captive public Mines in Million Rupees.
+Quantity of coal produced by captive private mines,I7155_9,Numeric Variable,t ( Tonnes ),1000000,sum,WeighingRatio_LandArea,Land Area from Census,Amount of Coal produced by captive Private Mines in Million Tonnes
+Value of coal produced by captive private mines,I7155_10,Numeric Variable,INR ( Indian Rupees ),1000000,sum,WeighingRatio_LandArea,Land Area from Census,Value of Coal produced by captive Private Mines in Million Rupees.

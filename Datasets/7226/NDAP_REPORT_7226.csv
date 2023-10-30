@@ -1,0 +1,73 @@
+ROWID,Country,State lgd code,State,YearCode,Year,Project proposals considered for development under pradhan mantri awas yojana,Projects sanctioned under pradhan mantri awas yojana mission,Houses for which foundation started under pradhan mantri awas yojana,Houses for which construction is complete under pradhan mantri awas yojana,Amount invested for building houses under pradhan mantri awas yojana,Amount sanctioned by the central government under pradhan mantri awas yojana,Amount released by the central government under pradhan mantri awas yojana
+1,India,1,Jammu And Kashmir,2021,"Calendar Year (Jan - Dec), 2021",332,56218,43997,10828,3157.13,859.67,325.93
+2,India,1,Jammu And Kashmir,2022,"Calendar Year (Jan - Dec), 2022",403,48832,46270,13946,2666.48,750.03,363.5
+3,India,2,Himachal Pradesh,2021,"Calendar Year (Jan - Dec), 2021",268,12681,12962,6091,796.32,225.71,135.94
+4,India,2,Himachal Pradesh,2022,"Calendar Year (Jan - Dec), 2022",308,13053,12625,7700,863.33,235.81,172.41
+5,India,3,Punjab,2021,"Calendar Year (Jan - Dec), 2021",885,110862,93553,46362,6895.14,1864.64,1115.01
+6,India,3,Punjab,2022,"Calendar Year (Jan - Dec), 2022",871,111896,100290,54857,7977.06,1986.21,1294.36
+7,India,4,Chandigarh,2021,"Calendar Year (Jan - Dec), 2021",,1580,6540,6540,310.5,35.32,35.32
+8,India,4,Chandigarh,2022,"Calendar Year (Jan - Dec), 2022",,1194,1129,1129,253.29,27.13,25.56
+9,India,5,Uttarakhand,2021,"Calendar Year (Jan - Dec), 2021",228,46822,30469,21474,3735.03,879.34,575.35
+10,India,5,Uttarakhand,2022,"Calendar Year (Jan - Dec), 2022",243,66473,39752,24956,5289.01,1209.46,636.35
+11,India,6,Haryana,2021,"Calendar Year (Jan - Dec), 2021",538,286304,79452,46001,29037.87,4678.74,1213.78
+12,India,6,Haryana,2022,"Calendar Year (Jan - Dec), 2022",457,165427,87656,53088,15510.32,2944.68,1349.18
+13,India,7,Delhi,2021,"Calendar Year (Jan - Dec), 2021",,25880,66460,49860,5035.16,586.74,586.74
+14,India,7,Delhi,2022,"Calendar Year (Jan - Dec), 2022",,28449,27288,27288,5444.16,653.44,624.76
+15,India,8,Rajasthan,2021,"Calendar Year (Jan - Dec), 2021",397,221212,164692,138824,17215.45,4022.24,2463.2
+16,India,8,Rajasthan,2022,"Calendar Year (Jan - Dec), 2022",422,266692,169667,137471,21857.38,5039.92,3313.22
+17,India,9,Uttar Pradesh,2021,"Calendar Year (Jan - Dec), 2021",4393,1733623,1415192,934484,81572.39,27031.93,17106.82
+18,India,9,Uttar Pradesh,2022,"Calendar Year (Jan - Dec), 2022",4536,1714013,1526933,1123303,83785.89,26978.71,19340.62
+19,India,10,Bihar,2021,"Calendar Year (Jan - Dec), 2021",512,364418,220904,94249,20048.9,5695.62,2469.41
+20,India,10,Bihar,2022,"Calendar Year (Jan - Dec), 2022",520,326546,307183,95643,18329.26,5165.61,2544.76
+21,India,11,Sikkim,2021,"Calendar Year (Jan - Dec), 2021",11,637,640,344,24.94,9.83,4.97
+22,India,11,Sikkim,2022,"Calendar Year (Jan - Dec), 2022",11,701,562,179,34.26,11.88,6.41
+23,India,12,Arunachal Pradesh,2021,"Calendar Year (Jan - Dec), 2021",48,7430,7989,3588,445.7,167.07,149.06
+24,India,12,Arunachal Pradesh,2022,"Calendar Year (Jan - Dec), 2022",61,8999,7968,3237,510.7,189.84,146.13
+25,India,13,Nagaland,2021,"Calendar Year (Jan - Dec), 2021",75,34228,31333,6596,1119.64,539.39,306.91
+26,India,13,Nagaland,2022,"Calendar Year (Jan - Dec), 2022",75,32335,31758,7180,1050.01,511.02,306.97
+27,India,14,Manipur,2021,"Calendar Year (Jan - Dec), 2021",42,53537,38167,5582,1374.56,803.51,338.13
+28,India,14,Manipur,2022,"Calendar Year (Jan - Dec), 2022",45,56029,42147,5711,1445.21,841.11,337.13
+29,India,15,Mizoram,2021,"Calendar Year (Jan - Dec), 2021",52,39872,24756,4699,857.17,608.27,189.9
+30,India,15,Mizoram,2022,"Calendar Year (Jan - Dec), 2022",52,40452,34141,5287,917.31,618.81,204.6
+31,India,16,Tripura,2021,"Calendar Year (Jan - Dec), 2021",107,92139,69439,53078,2855.69,1477.41,1029.79
+32,India,16,Tripura,2022,"Calendar Year (Jan - Dec), 2022",122,94289,79476,59571,2948.44,1512.97,1091.21
+33,India,17,Meghalaya,2021,"Calendar Year (Jan - Dec), 2021",36,5333,3796,1698,288.89,85.43,37.57
+34,India,17,Meghalaya,2022,"Calendar Year (Jan - Dec), 2022",36,4752,3611,901,185.29,72.08,24.95
+35,India,18,Assam,2021,"Calendar Year (Jan - Dec), 2021",370,137847,107476,31882,4415.93,2088.71,982.71
+36,India,18,Assam,2022,"Calendar Year (Jan - Dec), 2022",441,161309,147884,48503,4884.85,2441.23,1155.92
+37,India,19,West Bengal,2021,"Calendar Year (Jan - Dec), 2021",532,532222,449569,277263,29362.04,8469.17,5282.2
+38,India,19,West Bengal,2022,"Calendar Year (Jan - Dec), 2022",656,693436,482050,280127,37500.52,11070.19,5582.14
+39,India,20,Jharkhand,2021,"Calendar Year (Jan - Dec), 2021",445,234774,188266,104705,14571.14,3595.08,2461.79
+40,India,20,Jharkhand,2022,"Calendar Year (Jan - Dec), 2022",453,234114,207718,111758,11541.54,3682.33,2520.23
+41,India,21,Odisha,2021,"Calendar Year (Jan - Dec), 2021",824,177531,135222,97598,9231.92,2773.11,1634.24
+42,India,21,Odisha,2022,"Calendar Year (Jan - Dec), 2022",976,212950,159054,106139,9727.56,3350.97,1885.86
+43,India,22,Chhattisgarh,2021,"Calendar Year (Jan - Dec), 2021",1775,299379,228695,145365,12796.68,4629.61,2558.07
+44,India,22,Chhattisgarh,2022,"Calendar Year (Jan - Dec), 2022",1796,301781,252861,147864,13313.86,4755.72,2899.23
+45,India,23,Madhya Pradesh,2021,"Calendar Year (Jan - Dec), 2021",1602,864724,774427,464689,47937.76,13962.98,10086.52
+46,India,23,Madhya Pradesh,2022,"Calendar Year (Jan - Dec), 2022",1853,958100,845204,512907,52506.62,15709.71,11671.14
+47,India,24,Gujarat,2021,"Calendar Year (Jan - Dec), 2021",1604,859051,784329,621631,82639.09,16327.79,12153.73
+48,India,24,Gujarat,2022,"Calendar Year (Jan - Dec), 2022",1717,1054790,873597,735070,106172.84,21060.84,15256.81
+49,India,27,Maharashtra,2021,"Calendar Year (Jan - Dec), 2021",1167,1352015,789879,526134,154352.59,22724.93,11377.16
+50,India,27,Maharashtra,2022,"Calendar Year (Jan - Dec), 2022",1556,1634553,862083,632424,190648.19,28620.19,13916.7
+51,India,28,Andhra Pradesh,2021,"Calendar Year (Jan - Dec), 2021",1089,2040375,1644805,467317,87926.49,30993.33,10168.16
+52,India,28,Andhra Pradesh,2022,"Calendar Year (Jan - Dec), 2022",1203,2071776,1873838,559100,88685.56,31555.35,14223.58
+53,India,29,Karnataka,2021,"Calendar Year (Jan - Dec), 2021",2798,693541,467989,251113,49758.61,11303.83,5246.99
+54,India,29,Karnataka,2022,"Calendar Year (Jan - Dec), 2022",2760,700578,590620,271909,51193.35,11493.56,5407.7
+55,India,30,Goa,2021,"Calendar Year (Jan - Dec), 2021",10,4154,4096,4096,812.43,94.67,94.13
+56,India,30,Goa,2022,"Calendar Year (Jan - Dec), 2022",10,3097,2867,2865,657.98,72.21,67.72
+57,India,31,Lakshadweep,2021,"Calendar Year (Jan - Dec), 2021",,,,,,,
+58,India,31,Lakshadweep,2022,"Calendar Year (Jan - Dec), 2022",,,,,,,
+59,India,32,Kerala,2021,"Calendar Year (Jan - Dec), 2021",599,140443,124133,101267,7335.67,2304.92,1514.5
+60,India,32,Kerala,2022,"Calendar Year (Jan - Dec), 2022",699,157430,127629,102281,8270.76,2611.6,1832.43
+61,India,33,Tamil Nadu,2021,"Calendar Year (Jan - Dec), 2021",3689,719816,622773,448313,46466.08,11486.03,7632.41
+62,India,33,Tamil Nadu,2022,"Calendar Year (Jan - Dec), 2022",4708,691236,625947,455409,48598.21,11257.92,8509.54
+63,India,34,Puducherry,2021,"Calendar Year (Jan - Dec), 2021",38,14946,15545,6522,878.72,237.98,167.05
+64,India,34,Puducherry,2022,"Calendar Year (Jan - Dec), 2022",45,16039,15594,6845,901.61,252.43,167.64
+65,India,35,Andaman And Nicobar Islands,2021,"Calendar Year (Jan - Dec), 2021",2,602,602,43,155.9,9.21,0.9
+66,India,35,Andaman And Nicobar Islands,2022,"Calendar Year (Jan - Dec), 2022",2,378,377,45,95.74,5.87,1.97
+67,India,36,Telangana,2021,"Calendar Year (Jan - Dec), 2021",286,227332,238723,208268,27409.2,3970.0,2825.34
+68,India,36,Telangana,2022,"Calendar Year (Jan - Dec), 2022",303,247079,235044,209576,30099.27,4396.03,3044.09
+69,India,37,Ladakh,2021,"Calendar Year (Jan - Dec), 2021",8,1373,1040,497,66.63,30.61,21.72
+70,India,37,Ladakh,2022,"Calendar Year (Jan - Dec), 2022",8,1363,1071,594,67.73,31.05,22.15
+71,India,38,The Dadra And Nagar Haveli And Daman And Diu,2021,"Calendar Year (Jan - Dec), 2021",9,8171,7726,5514,696.21,164.47,142.52
+72,India,38,The Dadra And Nagar Haveli And Daman And Diu,2022,"Calendar Year (Jan - Dec), 2022",9,10011,8789,6370,848.33,210.26,164.95

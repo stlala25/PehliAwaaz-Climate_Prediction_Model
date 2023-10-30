@@ -1,0 +1,23 @@
+VariableName,VariableCode,Type_Of_Variable,Unit_Of_Measure,Scaling_Factor,Aggregation_Type,Weighing_Varible_ID,Weighing_Variable_Name,Long_Description
+Country,Country,Key Identifier,,0,,,,Country
+State lgd code,StateCode,Key Identifier,,0,,,,State LGD Code
+State,StateName,Key Identifier,,0,,,,State
+Station code,D7084_1,Key Identifier,"",0,"","","",Station code
+Station name,D7084_2,Key Identifier,"",0,"","","",Station name
+Year code,YearCode,Key Identifier,"",0,"","","",Year code
+Year,Year,Key Identifier,"",0,"","","",Year
+Minimum temperature for ground water in celsius,I7084_4,Numeric Variable,°C ( Centigrade ),1,min,Not Applicable,Not Applicable,Minimum temperature for ground water in celsius
+Maximum temperature for ground water in celsius,I7084_5,Numeric Variable,°C ( Centigrade ),1,max,Not Applicable,Not Applicable,Maximum temperature for ground water in celsius
+Minimum potential of hydrogen value in water,I7084_6,Numeric Variable,pH,1,min,Not Applicable,Not Applicable,Minimum potential of hydrogen(pH) value in water is a scale used to specify the acidity or basicity of an aqueous solution in ground water
+Maximum potential of hydrogen value in water,I7084_7,Numeric Variable,pH,1,max,Not Applicable,Not Applicable,Maximum potential of hydrogen(pH) value in water is a scale used to specify the acidity or basicity of an aqueous solution in ground water
+Minimum conductivity level,I7084_8,Numeric Variable,Âµmhos/cm (Micromhos per centimeter),1,min,Not Applicable,Not Applicable,Minimum conductivity level which is calculated for ground water is the ratio of the current density in the material to the electric field which causes the flow of current
+Maximum conductivity level,I7084_9,Numeric Variable,Âµmhos/cm (Micromhos per centimeter),1,max,Not Applicable,Not Applicable,Maximum conductivity level is calculated for ground water is the ratio of the current density in the material to the electric field which causes the flow of current
+Minimum biochemical oxygen demand,I7084_10,Numeric Variable,mg/L (Milligrams per liter),1,min,Not Applicable,Not Applicable,Minimum Biochemical oxygen demand (BOD) value which is required by aerobic biological organisms to break down organic material present in a ground water(mg/L)
+Maximum biochemical oxygen demand,I7084_11,Numeric Variable,mg/L (Milligrams per liter),1,max,Not Applicable,Not Applicable,Maximum Biochemical oxygen demand (BOD) value which is required by aerobic biological organisms to break down organic material present in a ground water(mg/L)
+Minimum  of nitrate n + nitrite n required required for ground water,I7084_12,Numeric Variable,mg/L (Milligrams per liter),1,min,Not Applicable,Not Applicable,Minimum  of Nitrate N + Nitrite N required for ground water
+Maximum  of nitrate n + nitrite n required required for ground water,I7084_13,Numeric Variable,mg/L (Milligrams per liter),1,max,Not Applicable,Not Applicable,Maximum  of Nitrate N + Nitrite N required for ground water
+Minimum  of faecal coliforms required for ground water,I7084_14,Numeric Variable,MPN/100ML(Most probable Number per 100 mililiters),1,min,Not Applicable,Not Applicable,Minimum  of Faecal Coliforms(coliform bacteria is associated with faecal matter) for ground water
+Maximum   of faecal coliforms required for ground water,I7084_15,Numeric Variable,MPN/100ML(Most probable Number per 100 mililiters),1,max,Not Applicable,Not Applicable,Maximum   of Faecal Coliforms(coliform bacteria is associated with faecal matter) for ground water
+Minimum  of total coliform required for ground water,I7084_16,Numeric Variable,MPN/100ML(Most probable Number per 100 mililiters),1,min,Not Applicable,Not Applicable,Minimum  of total coliform required for ground water
+Maximum  of total coliform required for ground water,I7084_17,Numeric Variable,MPN/100ML(Most probable Number per 100 mililiters),1,max,Not Applicable,Not Applicable,Maximum  of total coliform required for ground water
+,RequestID,,,0,,,,

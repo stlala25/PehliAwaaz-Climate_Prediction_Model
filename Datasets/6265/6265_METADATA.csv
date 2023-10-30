@@ -1,0 +1,15 @@
+VariableName,VariableCode,Type_Of_Variable,Unit_Of_Measure,Scaling_Factor,Aggregation_Type,Weighing_Varible_ID,Weighing_Variable_Name,Long_Description
+Country,Country,Key Identifier,,0,,,,Country
+State LGD Code,StateCode,Key Identifier,,0,,,,State LGD Code
+State,StateName,Key Identifier,,0,,,,State
+District LGD Code,DistrictCode,Key Identifier,,0,,,,District LGD Code
+District,DistrictName,Key Identifier,,0,,,,District
+Sub-District LGD Code,SubDistrictCode,Key Identifier,,0,,,,Sub-District LGD Code
+Sub-District,SubDistrictName,Key Identifier,,0,,,,Sub-District
+YearCode,YearCode,Key Identifier,,0,,"","",YearCode
+Year,Year,Key Identifier,,0,,"","",Year
+Number of telemetric raingauge Stations Working,I6265_4,Numeric Variable,Number,1,sum,Not Applicable,Not Applicable,Number of telemetric raingauge Stations Working
+Number of telemetric raingauge Stations Under Repair,I6265_5,Numeric Variable,Number,1,sum,Not Applicable,Not Applicable,Number of telemetric raingauge Stations Under Repair
+Number of telemetric raingauge Stations,I6265_6,Numeric Variable,Number,1,sum,Not Applicable,Not Applicable,Number of telemetric raingauge Stations
+Annual Normal Rainfall (1961 - 2010) Rainy Days,I6265_7,Numeric Variable,Number,1,sum,Not Applicable,Not Applicable,Annual Normal Rainfall (1961 - 2010) Rainy Days
+Annual Normal Rainfall (1961 - 2010) Normal Rainfall,I6265_8,Numeric Variable,Number,1,sum,Not Applicable,Not Applicable,Annual Normal Rainfall (1961 - 2010) Normal Rainfall

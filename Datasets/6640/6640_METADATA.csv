@@ -1,0 +1,12 @@
+VariableName,VariableCode,Type_Of_Variable,Unit_Of_Measure,Scaling_Factor,Aggregation_Type,Weighing_Varible_ID,Weighing_Variable_Name,Long_Description
+Country,Country,Key Identifier,,0,,,,Country
+State LGD Code,StateCode,Key Identifier,,0,,,,State LGD Code
+State,StateName,Key Identifier,,0,,,,State
+YearCode,YearCode,Key Identifier,"",0,,"","",YearCode
+Year,Year,Key Identifier,"",0,,"","",Year
+City name,D6640_3,Key Identifier,"",0,,"","",City name
+Location name,D6640_4,Key Identifier,"",0,,"","",Location name
+Number of Monitoring Days,I6640_5,Numeric Variable,Number,1,sum,WeighingRatio_TotalPopulation,Total Population from Census,Number of Monitoring Days
+Minimum Concentration of Sulphur Dioxide (SO2) (24-hourly average),I6640_6,Numeric Variable,Microgram per cubic meter (µg/m³),1,sum,WeighingRatio_TotalPopulation,Total Population from Census,Minimum Concentration of Sulphur Dioxide (SO2) (24-hourly average) in µg/m3
+Maximum Concentration of Sulphur Dioxide (SO2) (24-hourly average),I6640_7,Numeric Variable,Microgram per cubic meter (µg/m³),1,sum,WeighingRatio_TotalPopulation,Total Population from Census,Maximum Concentration of Sulphur Dioxide (SO2) (24-hourly average) in µg/m3
+Concentration of Sulphur Dioxide (SO2) (Annual average),I6640_8,Numeric Variable,Microgram per cubic meter (µg/m³),1,sum,WeighingRatio_TotalPopulation,Total Population from Census,Concentration of Sulphur Dioxide (SO2) (Annual average) in µg/m3

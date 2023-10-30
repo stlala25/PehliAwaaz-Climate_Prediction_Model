@@ -1,0 +1,14 @@
+VariableName,VariableCode,Type_Of_Variable,Unit_Of_Measure,Scaling_Factor,Aggregation_Type,Weighing_Varible_ID,Weighing_Variable_Name,Long_Description
+Country,Country,Key Identifier,,0,,,,Country
+State lgd code,StateCode,Key Identifier,,0,,,,State LGD Code
+State,StateName,Key Identifier,,0,,,,State
+District lgd code,DistrictCode,Key Identifier,,0,,,,District LGD Code
+District,DistrictName,Key Identifier,,0,,,,District
+Block lgd code,BlockCode,Key Identifier,,0,,,,Block LGD Code
+Block,BlockName,Key Identifier,,0,,,,Block
+Yearcode,YearCode,Key Identifier,"",0,"","","",YearCode
+Year,Year,Key Identifier,"",0,"","","",Year
+Maintenance cost maintenance cost for the road,I7096_5,Numeric Variable,INR ( Indian Rupees ),100000,sum,WeighingRatio_TotalPopulation,Total Population from Census,Maintenance cost for the road
+Road length of state and district,I7096_6,Numeric Variable,KM ( Killometer ),1,sum,WeighingRatio_LandArea,Land Area from Census,Road length for states and district in kilometers with past and updated road length constructed and going on
+Sanction cost granted by ministry of rural development to for road construction,I7096_7,Numeric Variable,INR ( Indian Rupees ),100000,sum,WeighingRatio_TotalPopulation,Total Population from Census,Sanction money granted by ministry of rural development to for road construction
+Total work done for each state in terms of habitations connected,I7096_8,Numeric Variable,Number,1,sum,WeighingRatio_TotalPopulation,Total Population from Census,Total work done for each state in terms of Habitations connected

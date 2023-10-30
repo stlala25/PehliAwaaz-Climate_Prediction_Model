@@ -1,0 +1,12 @@
+VariableName,VariableCode,Type_Of_Variable,Unit_Of_Measure,Scaling_Factor,Aggregation_Type,Weighing_Varible_ID,Weighing_Variable_Name,Long_Description
+Country,Country,Key Identifier,,0,,,,Country
+State LGD Code,StateCode,Key Identifier,,0,,,,State LGD Code
+State,StateName,Key Identifier,,0,,,,State
+YearCode,YearCode,Key Identifier,"",0,,"","",YearCode
+Year,Year,Key Identifier,"",0,,"","",Year
+City name,D6637_3,Key Identifier,"",0,,"","",City name
+Location name,D6637_4,Key Identifier,"",0,,"","",Location name
+Number of Monitoring Days,I6637_5,Numeric Variable,Number,1,sum,WeighingRatio_TotalPopulation,Total Population from Census,Number of Monitoring Days
+Minimum Concentration of Nitrogen Dioxide (NO2) (24-hourly average),I6637_6,Numeric Variable,Microgram per cubic meter (µg/m³),1,sum,WeighingRatio_TotalPopulation,Total Population from Census,Minimum Concentration of Nitrogen Dioxide (NO2) (24-hourly average) in µg/m3
+Maximum Concentration of Nitrogen Dioxide (NO2) (24-hourly average),I6637_7,Numeric Variable,Microgram per cubic meter (µg/m³),1,sum,WeighingRatio_TotalPopulation,Total Population from Census,Maximum Concentration of Nitrogen Dioxide (NO2) (24-hourly average) in µg/m3
+Concentration of Nitrogen Dioxide (NO2) (Annual Average),I6637_8,Numeric Variable,Microgram per cubic meter (µg/m³),1,sum,WeighingRatio_TotalPopulation,Total Population from Census,Concentration of Nitrogen Dioxide (NO2) (Annual Average) in µg/m3

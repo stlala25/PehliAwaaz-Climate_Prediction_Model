@@ -1,0 +1,11 @@
+VariableName,VariableCode,Type_Of_Variable,Unit_Of_Measure,Scaling_Factor,Aggregation_Type,Weighing_Varible_ID,Weighing_Variable_Name,Long_Description
+Country,Country,Key Identifier,,0,,,,Country
+State lgd code,StateCode,Key Identifier,,0,,,,State LGD Code
+State,StateName,Key Identifier,,0,,,,State
+Name of the fertilizer used,D6786_3,Key Identifier,"",0,,"","",Name of the fertilizer used
+Yearcode,YearCode,Key Identifier,"",0,,"","",YearCode
+Year,Year,Key Identifier,"",0,,"","",Year
+Monthcode,MonthCode,Key Identifier,"",0,,"","",MonthCode
+Month,Month,Key Identifier,"",0,,"","",Month
+Required fertilizer quantity,I6786_5,Numeric Variable,MT ( Metrictonne ),1,sum,WeighingRatio_LandArea,Land Area from Census,Required amount of fertilizer in metric tonne
+Available fertilizer quantity,I6786_6,Numeric Variable,MT ( Metrictonne ),1,sum,WeighingRatio_LandArea,Land Area from Census,Available amount of fertilizer in metric tonne
