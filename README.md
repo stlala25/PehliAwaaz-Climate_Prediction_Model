@@ -42,6 +42,9 @@ This will open in your default browser at `http://localhost:8501`. Interact with
 ## 📊 Screenshots
 ![Climate Prediction Model Image](https://raw.githubusercontent.com/stlala25/PehliAwaaz-Climate_Prediction_Model/master/images.jpeg)
 
+### 🏆 Achievement
+The screenshot above, captured on **October 29, 2023**, showcases a key success of our model. It predicted rainfall in **Delhi NCR** after **9 days** (on **November 7, 2023**) with an alpha value of **0.89**, indicating high confidence. This prediction aligned closely with the **India Meteorological Department (IMD)** readings, validating the model’s accuracy and reliability for real-world climate events in the region.
+
 ## 🤝 Contributing
 Feel free to fork, improve, and submit pull requests! For issues, open a ticket in the Issues tab.
 
