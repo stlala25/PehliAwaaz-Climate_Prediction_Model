@@ -40,7 +40,7 @@ This will open in your default browser at `http://localhost:8501`. Interact with
 - For custom button shortcuts, install `streamlit-shortcuts` via `pip install streamlit-shortcuts` and follow its documentation.
 
 ## 📊 Screenshots
-[Insert screenshot of temperature plot and urbanization trend here, e.g., a link to an image file]
+[(https://github.com/stlala25/PehliAwaaz-Climate_Prediction_Model/blob/master/images.jpeg)]
 
 ## 🤝 Contributing
 Feel free to fork, improve, and submit pull requests! For issues, open a ticket in the Issues tab.
