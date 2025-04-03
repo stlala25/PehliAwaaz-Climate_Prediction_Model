@@ -40,7 +40,7 @@ This will open in your default browser at `http://localhost:8501`. Interact with
 - For custom button shortcuts, install `streamlit-shortcuts` via `pip install streamlit-shortcuts` and follow its documentation.
 
 ## 📊 Screenshots
-[(https://github.com/stlala25/PehliAwaaz-Climate_Prediction_Model/blob/master/images.jpeg)]
+![Climate Prediction Model Image](https://raw.githubusercontent.com/stlala25/PehliAwaaz-Climate_Prediction_Model/master/images.jpeg)
 
 ## 🤝 Contributing
 Feel free to fork, improve, and submit pull requests! For issues, open a ticket in the Issues tab.
