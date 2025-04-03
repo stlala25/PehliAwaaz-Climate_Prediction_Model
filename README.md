@@ -46,7 +46,7 @@ This will open in your default browser at `http://localhost:8501`. Interact with
 Feel free to fork, improve, and submit pull requests! For issues, open a ticket in the Issues tab.
 
 ## 📞 Contact
-For questions, reach out to [your-email@example.com].
+For questions, reach out to [sarthak.a.work@gmail.com].
 
 ---
 
